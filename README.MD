@@ -10,7 +10,9 @@ git clone https://github.com/GitHubuser-a/Shopping-cart.git
 
 Install dependencies
 ``` shell
-npm install
+npm install express
+npm install nodemon
+npm install hbs
 ```
 
 Start NodeJS server at http://localhost:3000
