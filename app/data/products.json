@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Snickers",
+    "description": "Snickers pack of 10 <span class=\"label label-info\">$3.99</span>",
+    "price": 3.99
+  },
+  {
+    "id": 2,
+    "title": "Smarties",
+    "description": "Smarties pack of 10 <span class=\"label label-info\">$0.99</span>",
+    "price": 0.99
+  },
+  {
+    "id": 3,
+    "title": "Nerds",
+    "description": "pack of 100g <span class=\"label label-info\">$1.00</span>",
+    "price": 1.00
+  },
+  {
+    "id": 4,
+    "title": "Jolly Rancher",
+    "description": "pack of 20 <span class=\"label label-info\">$1.99</span>",
+    "price": 1.99
+  },
+  {
+    "id": 5,
+    "title": "Reese's Peanut butter cups",
+    "description": "pack of 10 <span class=\"label label-info\">$2.99</span>",
+    "price": 2.99
+  },
+  {
+    "id": 6,
+    "title": "M&M's",
+    "description": "pack of 20 <span class=\"label label-info\">$0.99</span>",
+    "price": 0.99
+  },
+  {
+    "id": 7,
+    "title": "Double Bubble",
+    "description": "pack of 50 <span class=\"label label-info\">$4.99</span>",
+    "price": 4.99
+  }
+]
